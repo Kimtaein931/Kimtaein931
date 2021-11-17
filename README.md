@@ -1,3 +1,3 @@
-<img src="https://img.shields.io/badge/java-yellow?style=flat-square&logo=java&logoColor=#007396"/>
-<img src="https://img.shields.io/badge/Spring-white?style=flat-square&logo=spring&logoColor=#6DB33F"/>
-<a href="https://www.instagram.com/yoootaein/?hl=ko"><img src="https://img.shields.io/badge/yoootaein-blue?style=flat-square&logo=Instagram&logoColor=#E4405F"/></a>
+<img src="https://img.shields.io/badge/java-#007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<a href="https://www.instagram.com/yoootaein/?hl=ko"><img src="https://img.shields.io/badge/yoootaein-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
